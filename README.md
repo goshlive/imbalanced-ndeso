@@ -8,3 +8,5 @@ The **_data_** folder includes multiple public datasets featuring multiclass imb
 The **_output_** folder holds the results of our comparison of NDESO with various other resampling techniques across different classifiers and datasets.
 
 For instructions on how to perform the testing, refer to the **TEST.ipynb** file, which provides an example of its usage.
+
+The experimental results are detailed in a paper, with the preprint version accessible at: [https://arxiv.org/abs/2501.04099].
